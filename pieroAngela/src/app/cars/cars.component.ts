@@ -10,7 +10,6 @@ export class CarsComponent implements OnInit {
   constructor() {
     this.name =""
    }
-
   ngOnInit(): void {
   }
 

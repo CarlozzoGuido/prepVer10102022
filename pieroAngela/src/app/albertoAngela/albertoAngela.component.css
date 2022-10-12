@@ -1,0 +1,11 @@
+.card{
+    background-color: aqua;
+    margin:8px;
+    width: 300px;
+    border-radius:0px;
+}
+.sfondo{
+    background-color:gray;
+    padding: 80px;
+    width:fit-content;
+}
